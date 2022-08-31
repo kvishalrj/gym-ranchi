@@ -10,7 +10,7 @@
  #### I got the basic understanding of HTML Tags and CSS background Concepts.
    
 
-[Click here to view live 🚀](https://kvishalrj.github.io/Loginpage/ "Street Style Landing Page")
+[Click here to view live 🚀](https://gym-ranchi.netlify.app/ "Street Style Landing Page")
 
 ## Screenshot of the Project 👇
 ![](/images/127.0.0.1_5500_gym_index.html(Mera%20PC).png)
