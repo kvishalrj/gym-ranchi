@@ -13,4 +13,4 @@
 [Click here to view live 🚀](https://kvishalrj.github.io/Loginpage/ "Street Style Landing Page")
 
 ## Screenshot of the Project 👇
-![](/gym/images/127.0.0.1_5500_gym_index.html(Mera%20PC).png)
+![](/images/127.0.0.1_5500_gym_index.html(Mera%20PC).png)
